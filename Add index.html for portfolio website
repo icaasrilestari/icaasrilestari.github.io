@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>Portofolio Ica Asri Lestari</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            line-height: 1.6; 
+            background-color: #f4f4f4; 
+            margin: 0; 
+            padding: 30px; 
+            color: #333;
+        }
+        .container { 
+            max-width: 800px; 
+            margin: auto; 
+            background: #fff; 
+            padding: 20px 30px; /* Sedikit lebih banyak padding */
+            border-radius: 8px; 
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        h1, h2 { 
+            color: #2c3e50; /* Warna judul lebih gelap */
+            border-bottom: 2px solid #3498db; /* Garis bawah untuk judul */
+            padding-bottom: 5px;
+            margin-top: 25px;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        ul {
+            list-style-type: none; /* Hilangkan bullet default */
+            padding: 0;
+        }
+        li {
+            background-color: #ecf0f1; /* Warna latar belakang item list */
+            margin-bottom: 10px;
+            padding: 10px 15px;
+            border-radius: 5px;
+            transition: background-color 0.3s ease; /* Efek hover halus */
+        }
+        li:hover {
+            background-color: #dbe4e6;
+        }
+        a {
+            color: #3498db; /* Warna link biru */
+            text-decoration: none; /* Hilangkan garis bawah default */
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline; /* Munculkan garis bawah saat hover */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Hai! 👋 Saya Ica Asri Lestari</h1>
+        <p>
+            Selamat datang di website portofolio saya. 
+            Saya adalah seorang pengembang yang bersemangat dalam dunia UI/UX, pengembangan web (HTML/CSS), dan teknologi imersif.
+            Saya percaya pada pembelajaran berkelanjutan dan menciptakan solusi digital yang menarik dan fungsional.
+        </p>
+        <p>
+            Saat ini, website ini sedang dalam pengembangan aktif. Nantikan lebih banyak proyek dan konten menarik di sini!
+        </p>
+        
+        <h2>Proyek Saya</h2>
+        <ul>
+            <li>
+                <a href="https://github.com/icaasrilestari/kalkulator-sederhana" target="_blank">
+                    Proyek Web 1: Kalkulator Sederhana (HTML, CSS, JavaScript)
+                </a>
+                <p>Kalkulator interaktif yang dibangun menggunakan dasar-dasar web.</p>
+            </li>
+            <li>
+                <a href="LINK_PROYEK_VIRTUAL_TOUR_KAMU" target="_blank"> 
+                    Proyek 2: Virtual Tour (360 Panorama)
+                </a>
+                <p>Pengalaman virtual tour imersif menggunakan gambar 360 panorama.</p>
+            </li>
+            </ul>
+
+        <h2>Hubungi Saya</h2>
+        <p>
+            Jangan ragu untuk terhubung dengan saya melalui platform berikut:
+        </p>
+        <ul>
+            <li>
+                <a href="https://www.linkedin.com/in/ica-asri-lestari-aa2799394/" target="_blank">LinkedIn</a>
+            </li>
+            <li>
+                <a href="https://instagram.com/LINK_INSTAGRAM_KAMU" target="_blank">Instagram</a>
+            </li>
+            </ul>
+    </div>
+</body>
+</html>
